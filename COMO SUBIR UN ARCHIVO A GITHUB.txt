@@ -1,0 +1,18 @@
+Primero entramos a la carpeta donde esta nuestros repositorios de git en nuestra pc luego damos click derecho 
+y damos Git Bash Here que abre el programa.
+Luego en los repositorios creamos la carpeta a subir.
+Luego damos el nombre del repositorio en este caso de la siguiente forma:
+cd Ensayo - Ensayo es el nombre del repositorio.
+git init - Inicializamos el repositorio vacio
+git add.
+git add -A - Añadimos todo lo que hay en el repositorio
+git commit -m "Iniciando Commit"- Hace una copia de los cambios que se han hecho
+git remote add origin https://github.com/SergioGarayG/Lista.git - Damos la direccion de donde clonamos nuestro repositorio en github
+git push -u origin master - sube todo ya a github.
+
+git status vemos lo que se ha subido y aparece en verde.
+git log - aparecen todos los commit que se han hecho.
+git pull - descarga los cambios que se han hecho los repositorios.
+git push - sube los archivos.
+SergioGarayG usuario
+srgg131995 contraseña
