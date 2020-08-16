@@ -1,0 +1,24 @@
+--SELECT
+select * from tbl_alumno;
+--SELECT CON WHERE
+select count(1) as cant_alumnos
+	from tbl_alumno
+	where carrera='IS';
+--INSERT
+insert into tbl_alumno 
+	values('129','Lucia','QUI');
+insert into tbl_alumno 
+	values('124','Bayron','IND');
+insert into tbl_alumno 
+	values('125','Elias','QUI');
+insert into tbl_alumno 
+	values('126','Kathia','IS');
+insert into tbl_alumno 
+	values('127','Andrea','MAT');
+--DELETE
+delete from tbl_alumno 
+	where registro = '126';
+--UPDATE
+update tbl_alumno
+	set carrera = 'MAT'
+	where registro = '125';

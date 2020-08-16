@@ -9,10 +9,66 @@ git add -A - Añadimos todo lo que hay en el repositorio
 git commit -m "Iniciando Commit"- Hace una copia de los cambios que se han hecho
 git remote add origin https://github.com/SergioGarayG/Lista.git - Damos la direccion de donde clonamos nuestro repositorio en github
 git push -u origin master - sube todo ya a github.
-
-git status vemos lo que se ha subido y aparece en verde.
+git push - sube los archivos y verifica si todo se subio
+git pull - descarga los cambios que se han hecho los repositorios y modifica el repositorio en git hub.
+Es el paso mas importante para los cambios en el repositorio de github.
+git status vemos lo que se ha subido y aparece en verde. 
 git log - aparecen todos los commit que se han hecho.
-git pull - descarga los cambios que se han hecho los repositorios.
-git push - sube los archivos.
+
+
 SergioGarayG usuario
 srgg131995 contraseña
+
+La Crisis del software nacio con el deseo de expansion de la industria e ingenieria en software. 
+Debido a la demanda que existia por suplir las necesidades de soluciones complejas y los programas que solucionaban dicha necesidad se decia que eran muy simples(Baja calidad del software).
+
+Esta crisis es una adolecensia de algunos factores:
+Baja calidad del software 
+AltoS requerimientos de personal para desarollo y mantenimiento
+Retrasos considerables en la planificación
+Poca productividad
+Tiempo y presupuesto excedido
+Elevadas cargas de mantenimiento
+Demandas cada vez más desfasadas con las ofertas
+Baja calidad y fiabilidad del producto
+Confiabilidad cuestionable
+Dependencia de los realizadores
+
+La crisis del software, se ha originado históricamente en los siguientes pasos:
+- Primera Fase. Los albores (1945-1955)
+
+Programar no es una tarea diferenciada del diseño de una máquina
+Uso de lenguaje máquina y ensamblador
+
+- Segunda Fase. El florecimiento (1955-1965)
+
+Aparecen multitud de lenguajes
+Era posible hacer casi todo
+
+- Tercera Fase. La crisis (1965-1970)
+
+Desarrollo inacabable de grandes programas
+Ineficiencia, errores, coste impredecible
+Nada es posible
+
+- Cuarta Fase. Innovación conceptual (1970-1980)
+
+Fundamentos de programación
+Verificación de programas
+Metodologías de diseño
+
+- Quinta Fase. El diseño es el problema (1980-?)
+
+Entornos de programación
+Especificación formal
+Programación automática
+
+Ventajas Crisis del Software
+1 Demanda creciente
+2 complejidad creciente
+3 Desafíos crecientes
+
+Desventajas
+4 Misma fuerza laboral
+5 Mismos métodos
+6 Mismas herramientas
